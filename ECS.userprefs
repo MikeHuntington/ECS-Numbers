@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BoxGame/CustomActions/PushBox.cs">
+    <Files>
+      <File FileName="Assets/Components/Box.cs" Line="84" Column="1" />
+      <File FileName="Assets/Systems/BoxSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Handlers/BoxNameChangedHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/BoxGame/CustomActions/SetUILabel.cs" Line="1" Column="1" />
+      <File FileName="Assets/BoxGame/CustomActions/SetUILabel.designer.cs" Line="1" Column="1" />
+      <File FileName="Assets/BoxGame/Handlers/GuessChangedHandler.cs" Line="69" Column="1" />
+      <File FileName="Assets/BoxGame/Handlers/BoxGameReadyHandler.cs" Line="54" Column="1" />
+      <File FileName="Assets/BoxGame/Handlers/GuessLabelReadyHandler.cs" Line="58" Column="1" />
+      <File FileName="Assets/BoxGame/Handlers/GuessedHigherHandler.cs" Line="58" Column="1" />
+      <File FileName="Assets/BoxGame/Systems/NumberGuessSystem.cs" Line="228" Column="1" />
+      <File FileName="Assets/BoxGame/CustomActions/PushBox.cs" Line="12" Column="43" />
+      <File FileName="Assets/BoxGame/CustomActions/PushBox.designer.cs" Line="30" Column="1" />
+      <File FileName="Assets/BoxGame/Handlers/BoxSystemGuessEventHandler.cs" Line="103" Column="1" />
+      <File FileName="Assets/Plugins/uFrame.ECS/Actions/Comparisons.cs" Line="127" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

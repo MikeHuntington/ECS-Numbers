@@ -1,0 +1,8 @@
+{
+	"Identifier":"a6c21f44-68a6-4ef3-88a0-35c3d54bebb6"	, 
+	"Time":"09/20/2015 21:18:27"	, 
+	"Group":211827	, 
+	"DataRecordId":"30f382de-4290-4712-a41c-d66090c39806"	, 
+	"Type":1	, 
+	"RecordType":"Invert.uFrame.ECS.ActionNode, Invert.uFrame.ECS.Editor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"	, 
+	"Data":"{\n\t\"MetaType\":\"uFrame.Actions.DebugLibrary.LogMessage\"\t, \n\t\"VariableName\":\"ActionNode5\"\t, \n\t\"Name\":\"NewActionNode\"\t, \n\t\"GraphId\":\"e7a1288a-5f55-4338-b7c8-8b884739fd98\"\t, \n\t\"Identifier\":\"30f382de-4290-4712-a41c-d66090c39806\"\t, \n\t\"Expanded\":false}\n"}

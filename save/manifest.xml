@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entries>
+    <ModelEntry>
+      <Id>e8c64395-bf03-4322-b325-dc9ba67b618e</Id>
+      <Type>GameModel</Type>
+    </ModelEntry>
+    <ModelEntry>
+      <Id>ad39ab5e-97f5-476c-af9e-151e28f8200a</Id>
+      <Type>LevelModel</Type>
+    </ModelEntry>
+  </Entries>
+</Manifest>

@@ -1,0 +1,8 @@
+{
+	"Identifier":"cf280654-da16-44fd-a0d7-2758da49ddc1"	, 
+	"Time":"09/21/2015 12:13:49"	, 
+	"Group":121349	, 
+	"DataRecordId":"65d20e68-7173-4c02-a6fa-c2fd7ec89520"	, 
+	"Type":0	, 
+	"RecordType":"Invert.uFrame.ECS.FloatNode, Invert.uFrame.ECS.Editor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"	, 
+	"Data":"{\n\t\"Value\":0\t, \n\t\"VariableName\":\"FloatNode62\"\t, \n\t\"GraphId\":\"297fe92f-9e08-4365-a8ed-8cd3d7b372f7\"\t, \n\t\"Identifier\":\"65d20e68-7173-4c02-a6fa-c2fd7ec89520\"\t, \n\t\"Expanded\":false}\n"}
